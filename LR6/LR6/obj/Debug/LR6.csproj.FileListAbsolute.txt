@@ -1,7 +1,0 @@
-H:\Programs\Тестирование\лабы\LR6\LR6\bin\Debug\LR6.exe.config
-H:\Programs\Тестирование\лабы\LR6\LR6\bin\Debug\LR6.exe
-H:\Programs\Тестирование\лабы\LR6\LR6\bin\Debug\LR6.pdb
-H:\Programs\Тестирование\лабы\LR6\LR6\obj\Debug\LR6.csprojAssemblyReference.cache
-H:\Programs\Тестирование\лабы\LR6\LR6\obj\Debug\LR6.csproj.CoreCompileInputs.cache
-H:\Programs\Тестирование\лабы\LR6\LR6\obj\Debug\LR6.exe
-H:\Programs\Тестирование\лабы\LR6\LR6\obj\Debug\LR6.pdb
