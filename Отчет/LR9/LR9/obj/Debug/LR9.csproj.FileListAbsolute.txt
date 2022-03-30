@@ -1,0 +1,7 @@
+H:\Programs\Тестирование\лабы\LR9\LR9\bin\Debug\LR9.exe.config
+H:\Programs\Тестирование\лабы\LR9\LR9\bin\Debug\LR9.exe
+H:\Programs\Тестирование\лабы\LR9\LR9\bin\Debug\LR9.pdb
+H:\Programs\Тестирование\лабы\LR9\LR9\obj\Debug\LR9.csprojAssemblyReference.cache
+H:\Programs\Тестирование\лабы\LR9\LR9\obj\Debug\LR9.csproj.CoreCompileInputs.cache
+H:\Programs\Тестирование\лабы\LR9\LR9\obj\Debug\LR9.exe
+H:\Programs\Тестирование\лабы\LR9\LR9\obj\Debug\LR9.pdb
